@@ -1,0 +1,1199 @@
+TAlarmClock
+v7
+r0
+t372673693.723876
+cCheck dependencies
+cCpResource build/Debug-iphoneos/AlarmClock.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/Info.plist AlarmClock-Info.plist
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+cProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch.gch AlarmClock_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch.gch AlarmClock_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/main.o /Users/zhuxian/Documents/DJ/AlarmClock/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockAppDelegate.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockMusicController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockSceneController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockModeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockTimeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/ClockCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/CustomerCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/UIColor_Random.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/MainSetViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/main.o /Users/zhuxian/Documents/DJ/AlarmClock/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockAppDelegate.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockMusicController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockSceneController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock normal armv6
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockModeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockTimeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/ClockCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/CustomerCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/UIColor_Random.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/MainSetViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock normal armv7
+cCreateUniversalBinary /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock normal "armv6 armv7"
+cGenerateDSYMFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app.dSYM /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock
+cProcessProductPackaging "/Users/zhuxian/Library/MobileDevice/Provisioning Profiles/CC65BCCD-10F9-48E5-84A2-271E8E38BA2B.mobileprovision" /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision
+cTouch /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent
+cCodeSign /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004CC10E3C00000000000CDE60
+t1287720508
+s843360
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10E3500000000001E1430
+t1287720501
+s1971248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+c00000000508651430000000000001A51
+t1350979907
+s6737
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch
+c000000005086514300000000000000BD
+t1350979907
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.h
+c000000004FA4CA600000000000000185
+t1336199776
+s389
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m
+c000000004FA4CA600000000000000389
+t1336199776
+s905
+i"AddClockViewCell.h"
+i"MainSetViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+c000000004FA4CA600000000000004ACD
+t1336199776
+s19149
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.h
+c000000004FA4CA600000000000000728
+t1336199776
+s1832
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m
+c000000004FA4CA600000000000002872
+t1336199776
+s10354
+i"AddClockViewController.h"
+i"MainSetViewController.h"
+i<QuartzCore/QuartzCore.h>
+i"SetClockTimeController.h"
+i"SetClockModeController.h"
+i"SetClockSceneController.h"
+i"SetClockMusicController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+c000000004FA4CA600000000000007B51
+t1336199776
+s31569
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.h
+c000000005086514200000000000001DF
+t1350979906
+s479
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m
+c00000000508651420000000000000A92
+t1350979906
+s2706
+i"AlarmClockAppDelegate.h"
+i"AlarmClockViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.h
+c00000000508654A00000000000000138
+t1350980768
+s312
+i<UIKit/UIKit.h>
+i"MainSetViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m
+c00000000508654840000000000000663
+t1350980740
+s1635
+i"AlarmClockViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.h
+c000000004FA4CA600000000000000419
+t1336199776
+s1049
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m
+c000000004FA4CA600000000000000E33
+t1336199776
+s3635
+i"ClockCell.h"
+i"MainSetViewController.h"
+i"UIColor_Random.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+c000000004FA4CA600000000000006EB1
+t1336199776
+s28337
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.h
+c000000004FA4CA600000000000000206
+t1336199776
+s518
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m
+c000000004FA4CA60000000000000045B
+t1336199776
+s1115
+i"CustomerCell.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/GeiniableClockAppDelegate.h
+c000000004FA4CA600000000000000283
+t1336199776
+s643
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.h
+c00000000508654E70000000000000571
+t1350980839
+s1393
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m
+c00000000508654E80000000000002E4A
+t1350980840
+s11850
+i"MainSetViewController.h"
+i"UIColor_Random.h"
+i"AddClockViewCell.h"
+i"AddClockViewController.h"
+i"ClockCell.h"
+i"CustomerCell.h"
+i<QuartzCore/QuartzCore.h>
+i"GeiniableClockAppDelegate.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+c000000004FA4CA600000000000008AFF
+t1336199776
+s35583
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.h
+c000000004FA4CA600000000000000290
+t1336199776
+s656
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"AddClockViewController.h"
+i"MainSetViewController.h"
+i"UIColor_Random.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m
+c000000004FA4CA600000000000000D98
+t1336199776
+s3480
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.h
+c000000004FA4CA6000000000000003F9
+t1336199776
+s1017
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m
+c000000004FA4CA600000000000001B39
+t1336199776
+s6969
+i"SetClockModeController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+c000000004FA4CA600000000000005F29
+t1336199776
+s24361
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.h
+c000000004FA4CA60000000000000064E
+t1336199776
+s1614
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m
+c000000004FA4CA6000000000000027A0
+t1336199776
+s10144
+i"SetClockMusicController.h"
+i<AudioToolbox/AudioToolbox.h>
+i"GeiniableClockAppDelegate.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+c000000004FA4CA600000000000007E99
+t1336199776
+s32409
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.h
+c000000004FA4CA600000000000000309
+t1336199776
+s777
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m
+c000000004FA4CA6000000000000012F5
+t1336199776
+s4853
+i"SetClockSceneController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+c000000004FA4CA600000000000005FC0
+t1336199776
+s24512
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.h
+c000000004FA4CA6000000000000002FA
+t1336199776
+s762
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m
+c000000004FA4CA600000000000001320
+t1336199776
+s4896
+i"SetClockTimeController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+c000000004FA4CA6000000000000065CF
+t1336199776
+s26063
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.h
+c000000004FA4CA600000000000000097
+t1336199776
+s151
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m
+c000000004FA4CA6000000000000001E6
+t1336199776
+s486
+i"UIColor_Random.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+c00000000508651430000000000004E4D
+t1350979907
+s20045
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent
+t1350980893
+s426
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewCell.o
+t1350980892
+s40820
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewController.o
+t1350980893
+s88156
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock
+t1350980893
+s119996
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock.LinkFileList
+c000000005086551B000000000000076F
+t1350980891
+s1903
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockAppDelegate.o
+t1350980892
+s51392
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockViewController.o
+t1350980892
+s40372
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/ClockCell.o
+t1350980892
+s60324
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/CustomerCell.o
+t1350980892
+s42584
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/MainSetViewController.o
+t1350980893
+s86808
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockController.o
+t1350980892
+s53092
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockModeController.o
+t1350980892
+s64192
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockMusicController.o
+t1350980892
+s81252
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockSceneController.o
+t1350980892
+s51120
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockTimeController.o
+t1350980892
+s51228
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/UIColor_Random.o
+t1350980892
+s7620
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/main.o
+t1350980892
+s6448
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewCell.o
+t1350980893
+s40744
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewController.o
+t1350980893
+s86068
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock
+t1350980893
+s115216
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock.LinkFileList
+c000000005086551B000000000000076F
+t1350980891
+s1903
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockAppDelegate.o
+t1350980892
+s51312
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockViewController.o
+t1350980892
+s40336
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/ClockCell.o
+t1350980893
+s59592
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/CustomerCell.o
+t1350980893
+s42440
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/MainSetViewController.o
+t1350980893
+s86008
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockController.o
+t1350980893
+s52296
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockModeController.o
+t1350980893
+s63668
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockMusicController.o
+t1350980893
+s80132
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockSceneController.o
+t1350980893
+s50872
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockTimeController.o
+t1350980893
+s50932
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/UIColor_Random.o
+t1350980893
+s7388
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/main.o
+t1350980892
+s6432
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+t1350980893
+s646
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app.dSYM
+t1350980893
+s102
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AddClockViewCell.nib
+t1350980891
+s2090
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AddClockViewController.nib
+t1350980891
+s4391
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock
+t1350980893
+s242192
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClockViewController.nib
+t1350980891
+s795
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/ClockCell.nib
+t1350980891
+s2726
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/Info.plist
+t1350980891
+s793
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/MainSetViewController.nib
+t1350980891
+s2155
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/MainWindow.nib
+t1350980891
+s1129
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/PkgInfo
+t1350980891
+s8
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/ResourceRules.plist
+t1350980891
+s485
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockModeController.nib
+t1350980891
+s1737
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockMusicController.nib
+t1350980891
+s2650
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockSceneController.nib
+t1350980891
+s1829
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockTimeController.nib
+t1350980891
+s1650
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision
+t1350980893
+s8568
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/main.m
+c0000000050865143000000000000015A
+t1350979907
+s346
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Library/MobileDevice/Provisioning Profiles/CC65BCCD-10F9-48E5-84A2-271E8E38BA2B.mobileprovision
+c0000000050811A270000000000002178
+t1350638119
+s8568
+
+N/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch.gch
+t1350980892
+s10446552
+
+N/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch.gch
+t1350980892
+s9983704
+
+NAlarmClock-Info.plist
+c0000000050865143000000000000038D
+t1350979907
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies372673691#372673691#0(0"0(0#1#0"8637720160#0"0#
+
+CCodeSign /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+s372673693.484673
+e372673693.723844
+r1
+xCodeSign
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+lSLF07#2@44"CodeSign build/Debug-iphoneos/AlarmClock.app372673693#372673693#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app8658487648#660"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: zhan zhao (53Y93Y72UD)" --resource-rules=/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/ResourceRules.plist --entitlements /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.670239
+e372673692.727189
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m372673692#372673693#0(0"0(0#0#65"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m8622811264#1816"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.787397
+e372673693.006970
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m372673692#372673693#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m8652126528#1828"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AddClockViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockAppDelegate.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.519988
+e372673692.611777
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockAppDelegate.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m372673692#372673692#0(0"0(0#0#70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m8641139200#1826"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockAppDelegate.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.520631
+e372673692.578885
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m372673692#372673692#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m8624498752#1832"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClockViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/ClockCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.727274
+e372673692.817047
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/ClockCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m372673692#372673693#0(0"0(0#0#58"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m8651766432#1802"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/ClockCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/CustomerCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.762648
+e372673692.873598
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/CustomerCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m372673692#372673693#0(0"0(0#0#61"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m8657863584#1808"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/CustomerCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/MainSetViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.849689
+e372673693.062308
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/MainSetViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: incomplete implementation of class 'MainSetViewController'
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: method definition for '-showWeatherReport:' not found
+lSLF07#2@78"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673692#372673693#0(283"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: incomplete implementation of class 'MainSetViewController'/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: method definition for '-showWeatherReport:' not found2(22@58"Incomplete implementation of class 'MainSetViewController'372673692#0#144#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673640#330#0#330#0#38"incomplete implementation of class '*'0(22@53"Method definition for '-showWeatherReport:' not found372673692#144#139#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673640#330#0#330#0#35"method definition for '*' not found0(0#0#70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m8652334016#1826"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/MainSetViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.521265
+e372673692.648808
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m372673692#372673692#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m8607409600#1820"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockModeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.611856
+e372673692.787308
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockModeController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m372673692#372673693#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m8658374176#1828"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockModeController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockMusicController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.576853
+e372673692.939703
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockMusicController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m372673692#372673693#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m8618746880#1830"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockMusicController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockSceneController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.578964
+e372673692.670153
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockSceneController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m372673692#372673693#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m8628778432#1830"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockSceneController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockTimeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.648889
+e372673692.762565
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockTimeController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m372673692#372673693#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m8625359520#1828"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/SetClockTimeController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/UIColor_Random.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.817128
+e372673692.849607
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/UIColor_Random.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m372673692#372673693#0(0"0(0#0#63"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m8641575584#1812"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/UIColor_Random.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/main.o /Users/zhuxian/Documents/DJ/AlarmClock/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.519215
+e372673692.576767
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/main.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/zhuxian/Documents/DJ/AlarmClock/main.m372673692#372673692#0(0"0(0#0#45"/Users/zhuxian/Documents/DJ/AlarmClock/main.m8650183840#1784"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/main.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.130496
+e372673693.192148
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m372673693#372673693#0(0"0(0#0#65"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m8661667776#1816"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.196156
+e372673693.346480
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m372673693#372673693#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m8618530464#1828"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AddClockViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockAppDelegate.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673692.919902
+e372673692.988981
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockAppDelegate.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m372673692#372673693#0(0"0(0#0#70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m8649303328#1826"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockAppDelegate.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673692.939789
+e372673692.984251
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m372673692#372673693#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m8643032224#1832"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClockViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/ClockCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.152700
+e372673693.255312
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/ClockCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m372673693#372673693#0(0"0(0#0#58"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m8661967616#1802"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/ClockCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/CustomerCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.193129
+e372673693.254917
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/CustomerCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m372673693#372673693#0(0"0(0#0#61"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m8615775520#1808"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/CustomerCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/MainSetViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.252747
+e372673693.351507
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/MainSetViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: incomplete implementation of class 'MainSetViewController'
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: method definition for '-showWeatherReport:' not found
+lSLF07#2@78"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673693#372673693#0(283"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: incomplete implementation of class 'MainSetViewController'/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:330: warning: method definition for '-showWeatherReport:' not found2(22@58"Incomplete implementation of class 'MainSetViewController'372673693#0#144#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673640#330#0#330#0#38"incomplete implementation of class '*'0(22@53"Method definition for '-showWeatherReport:' not found372673693#144#139#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673640#330#0#330#0#35"method definition for '*' not found0(0#0#70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m8659184096#1826"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/MainSetViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673692.984336
+e372673693.064396
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m372673692#372673693#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m8659684096#1820"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockModeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.064483
+e372673693.195944
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockModeController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m372673693#372673693#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m8607827264#1828"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockModeController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockMusicController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673692.989068
+e372673693.196086
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockMusicController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m372673692#372673693#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m8657702240#1830"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockMusicController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockSceneController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.007059
+e372673693.083120
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockSceneController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m372673693#372673693#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m8659933408#1830"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockSceneController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockTimeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.083200
+e372673693.152606
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockTimeController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m372673693#372673693#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m8659525088#1828"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/SetClockTimeController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/UIColor_Random.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673693.198408
+e372673693.252656
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/UIColor_Random.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m372673693#372673693#0(0"0(0#0#63"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m8646546592#1812"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/UIColor_Random.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/main.o /Users/zhuxian/Documents/DJ/AlarmClock/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673692.873685
+e372673692.919817
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/main.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/zhuxian/Documents/DJ/AlarmClock/main.m372673692#372673693#0(0"0(0#0#45"/Users/zhuxian/Documents/DJ/AlarmClock/main.m8650617536#1784"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/main.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+s372673691.020847
+e372673691.356688
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+lSLF07#2@39"CompileXIB AlarmClockViewController.xib372673691#372673691#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib8643407648#573"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClockViewController.nib /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+s372673691.429488
+e372673691.774562
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+lSLF07#2@39"CompileXIB Classes/AddClockViewCell.xib372673691#372673691#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib8652413120#565"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AddClockViewCell.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+s372673691.641048
+e372673692.027569
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+lSLF07#2@45"CompileXIB Classes/AddClockViewController.xib372673691#372673692#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib8658370208#577"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AddClockViewController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+s372673691.430505
+e372673691.703862
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+lSLF07#2@32"CompileXIB Classes/ClockCell.xib372673691#372673691#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib8652304032#551"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/ClockCell.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+s372673691.703935
+e372673691.982945
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+lSLF07#2@44"CompileXIB Classes/MainSetViewController.xib372673691#372673691#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib8629202080#575"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/MainSetViewController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+s372673691.303439
+e372673691.640974
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+lSLF07#2@45"CompileXIB Classes/SetClockModeController.xib372673691#372673691#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib8658292704#577"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockModeController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+s372673691.021295
+e372673691.429416
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+lSLF07#2@46"CompileXIB Classes/SetClockMusicController.xib372673691#372673691#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib8641052160#579"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockMusicController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+s372673691.021762
+e372673691.430450
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+lSLF07#2@46"CompileXIB Classes/SetClockSceneController.xib372673691#372673691#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib8636856096#579"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockSceneController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+s372673691.356772
+e372673691.716977
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+lSLF07#2@45"CompileXIB Classes/SetClockTimeController.xib372673691#372673691#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib8657417824#577"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/SetClockTimeController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+s372673691.020313
+e372673691.303353
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib372673691#372673691#0(0"0(0#0#53"/Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib8645847712#545"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/MainWindow.nib /Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/AlarmClock.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s372673691.015105
+e372673691.019794
+r1
+xCpResource
+xbuild/Debug-iphoneos/AlarmClock.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist372673691#372673691#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8657925696#497"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app0#
+
+CCreateUniversalBinary /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock normal "armv6 armv7"
+s372673693.389141
+e372673693.399505
+r1
+xCreateUniversalBinary
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Debug-iphoneos/AlarmClock.app/AlarmClock normal "armv6 armv7"372673693#372673693#0(0"0(0#0#50"/Users/zhuxian/Documents/DJ/AlarmClock/armv6 armv78661168288#542"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock -output /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock0#
+
+CGenerateDSYMFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app.dSYM /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock
+s372673693.399590
+e372673693.466067
+r1
+xGenerateDSYMFile
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app.dSYM
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock
+lSLF07#2@104"GenerateDSYMFile build/Debug-iphoneos/AlarmClock.app.dSYM build/Debug-iphoneos/AlarmClock.app/AlarmClock372673693#372673693#0(0"0(0#0#85"/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock8659675168#371"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/AlarmClock -o /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app.dSYM0#
+
+CLd /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock normal armv6
+s372673693.062392
+e372673693.130400
+r1
+xLd
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock
+xnormal
+xarmv6
+lSLF07#2@130"Link /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock372673693#372673693#0(0"0(0#0#0"8660747328#1066"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -filelist /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework MobileCoreServices -framework Security -framework SystemConfiguration -lxml2 -lz.1.2.3 -framework QuartzCore -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv6/AlarmClock0#
+
+CLd /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock normal armv7
+s372673693.351581
+e372673693.389055
+r1
+xLd
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock
+xnormal
+xarmv7
+lSLF07#2@130"Link /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock372673693#372673693#0(0"0(0#0#0"8659243488#1066"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -filelist /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework MobileCoreServices -framework Security -framework SystemConfiguration -lxml2 -lz.1.2.3 -framework QuartzCore -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/Objects-normal/armv7/AlarmClock0#
+
+CProcessInfoPlistFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/Info.plist AlarmClock-Info.plist
+s372673691.015887
+e372673691.020256
+r1
+xProcessInfoPlistFile
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/Info.plist
+xAlarmClock-Info.plist
+lSLF07#2@29"Process AlarmClock-Info.plist372673691#372673691#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock-Info.plist8651421600#574"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AlarmClock-Info.plist -genpkginfo /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/ResourceRules.plist -o /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/Info.plist0#
+
+CProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch.gch AlarmClock_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s372673692.028341
+e372673692.519043
+r1
+xProcessPCH
+x/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch.gch
+xAlarmClock_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AlarmClock_Prefix.pch372673692#372673692#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch8610823072#1679"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv7 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -c /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch -o /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-etrjxwnxflwpwxdfotnupovdcwpn/AlarmClock_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch.gch AlarmClock_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s372673692.027666
+e372673692.486579
+r1
+xProcessPCH
+x/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch.gch
+xAlarmClock_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AlarmClock_Prefix.pch372673692#372673692#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch8618790496#1679"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources/armv6 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/DerivedSources -c /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch -o /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-guvvsriczcclkjftogcgyfkytttp/AlarmClock_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/zhuxian/Library/MobileDevice/Provisioning Profiles/CC65BCCD-10F9-48E5-84A2-271E8E38BA2B.mobileprovision" /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision
+s372673693.466161
+e372673693.467080
+r1
+xProcessProductPackaging
+x/Users/zhuxian/Library/MobileDevice/Provisioning Profiles/CC65BCCD-10F9-48E5-84A2-271E8E38BA2B.mobileprovision
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/zhuxian/Library/MobileDevice/Provisioning Profiles/CC65BCCD-10F9-48E5-84A2-271E8E38BA2B.mobileprovision" build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision372673693#372673693#0(0"0(0#0#99"/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision8662111776#428"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/zhuxian/Library/MobileDevice/Provisioning Profiles/CC65BCCD-10F9-48E5-84A2-271E8E38BA2B.mobileprovision" -o /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent
+s372673693.469452
+e372673693.484615
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent
+lSLF07#2@184"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent372673693#372673693#0(0"0(0#0#110"/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent8662102112#441"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphoneos/AlarmClock.build/AlarmClock.xcent0#
+
+CTouch /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+s372673693.467128
+e372673693.469364
+r1
+xTouch
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app
+lSLF07#2@80"Touch /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app372673693#372673693#0(0"0(0#0#0"8661044224#267"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphoneos/AlarmClock.app0#
+

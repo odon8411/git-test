@@ -1,0 +1,1005 @@
+TAlarmClock
+v7
+r0
+t372673584.238913
+cCheck dependencies
+cProcessInfoPlistFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/Info.plist AlarmClock-Info.plist
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+cCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+cProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch.gch AlarmClock_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/main.o /Users/zhuxian/Documents/DJ/AlarmClock/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockAppDelegate.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockMusicController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockSceneController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockModeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockTimeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/ClockCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/CustomerCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/UIColor_Random.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/MainSetViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004CC121E20000000000088320
+t1287725538
+s557856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libz.1.2.3.dylib
+c000000004CC109C300000000000123B0
+t1287719363
+s74672
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+c00000000508651430000000000001A51
+t1350979907
+s6737
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch
+c000000005086514300000000000000BD
+t1350979907
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.h
+c000000004FA4CA600000000000000185
+t1336199776
+s389
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m
+c000000004FA4CA600000000000000389
+t1336199776
+s905
+i"AddClockViewCell.h"
+i"MainSetViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+c000000004FA4CA600000000000004ACD
+t1336199776
+s19149
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.h
+c000000004FA4CA600000000000000728
+t1336199776
+s1832
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m
+c000000004FA4CA600000000000002872
+t1336199776
+s10354
+i"AddClockViewController.h"
+i"MainSetViewController.h"
+i<QuartzCore/QuartzCore.h>
+i"SetClockTimeController.h"
+i"SetClockModeController.h"
+i"SetClockSceneController.h"
+i"SetClockMusicController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+c000000004FA4CA600000000000007B51
+t1336199776
+s31569
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.h
+c000000005086514200000000000001DF
+t1350979906
+s479
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m
+c00000000508651420000000000000A92
+t1350979906
+s2706
+i"AlarmClockAppDelegate.h"
+i"AlarmClockViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.h
+c00000000508654A00000000000000138
+t1350980768
+s312
+i<UIKit/UIKit.h>
+i"MainSetViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m
+c00000000508654840000000000000663
+t1350980740
+s1635
+i"AlarmClockViewController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.h
+c000000004FA4CA600000000000000419
+t1336199776
+s1049
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m
+c000000004FA4CA600000000000000E33
+t1336199776
+s3635
+i"ClockCell.h"
+i"MainSetViewController.h"
+i"UIColor_Random.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+c000000004FA4CA600000000000006EB1
+t1336199776
+s28337
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.h
+c000000004FA4CA600000000000000206
+t1336199776
+s518
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m
+c000000004FA4CA60000000000000045B
+t1336199776
+s1115
+i"CustomerCell.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/GeiniableClockAppDelegate.h
+c000000004FA4CA600000000000000283
+t1336199776
+s643
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.h
+c000000004FA4CA60000000000000056D
+t1336199776
+s1389
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m
+c00000000508649480000000000002E06
+t1350977864
+s11782
+i"MainSetViewController.h"
+i"UIColor_Random.h"
+i"AddClockViewCell.h"
+i"AddClockViewController.h"
+i"ClockCell.h"
+i"CustomerCell.h"
+i<QuartzCore/QuartzCore.h>
+i"WeatherMainViewController.h"
+i"GeiniableClockAppDelegate.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+c000000004FA4CA600000000000008AFF
+t1336199776
+s35583
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.h
+c000000004FA4CA600000000000000290
+t1336199776
+s656
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"AddClockViewController.h"
+i"MainSetViewController.h"
+i"UIColor_Random.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m
+c000000004FA4CA600000000000000D98
+t1336199776
+s3480
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.h
+c000000004FA4CA6000000000000003F9
+t1336199776
+s1017
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m
+c000000004FA4CA600000000000001B39
+t1336199776
+s6969
+i"SetClockModeController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+c000000004FA4CA600000000000005F29
+t1336199776
+s24361
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.h
+c000000004FA4CA60000000000000064E
+t1336199776
+s1614
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+i<AVFoundation/AVFoundation.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m
+c000000004FA4CA6000000000000027A0
+t1336199776
+s10144
+i"SetClockMusicController.h"
+i<AudioToolbox/AudioToolbox.h>
+i"GeiniableClockAppDelegate.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+c000000004FA4CA600000000000007E99
+t1336199776
+s32409
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.h
+c000000004FA4CA600000000000000309
+t1336199776
+s777
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m
+c000000004FA4CA6000000000000012F5
+t1336199776
+s4853
+i"SetClockSceneController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+c000000004FA4CA600000000000005FC0
+t1336199776
+s24512
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.h
+c000000004FA4CA6000000000000002FA
+t1336199776
+s762
+i<UIKit/UIKit.h>
+i"SetClockController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m
+c000000004FA4CA600000000000001320
+t1336199776
+s4896
+i"SetClockTimeController.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+c000000004FA4CA6000000000000065CF
+t1336199776
+s26063
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.h
+c000000004FA4CA600000000000000097
+t1336199776
+s151
+i<UIKit/UIKit.h>
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m
+c000000004FA4CA6000000000000001E6
+t1336199776
+s486
+i"UIColor_Random.h"
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+c00000000508651430000000000004E4D
+t1350979907
+s20045
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewCell.o
+t1350980784
+s41096
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewController.o
+t1350980784
+s90796
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClock.LinkFileList
+c00000000508654AE00000000000007C3
+t1350980782
+s1987
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockAppDelegate.o
+t1350980784
+s51896
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockViewController.o
+t1350980784
+s40476
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/ClockCell.o
+t1350980784
+s61776
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/CustomerCell.o
+t1350980784
+s43064
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/MainSetViewController.o
+t2
+s0
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockController.o
+t1350980784
+s53628
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockModeController.o
+t1350980784
+s65884
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockMusicController.o
+t1350980784
+s84684
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockSceneController.o
+t1350980784
+s52348
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockTimeController.o
+t1350980784
+s52084
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/UIColor_Random.o
+t1350980784
+s7228
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/main.o
+t1350980784
+s6304
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app
+t2
+s0
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app.dSYM
+t2
+s0
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AddClockViewCell.nib
+t1350980783
+s2090
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AddClockViewController.nib
+t1350980783
+s4392
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AlarmClock
+t2
+s0
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AlarmClockViewController.nib
+t1350980782
+s795
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/ClockCell.nib
+t1350980783
+s2728
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/Info.plist
+t1350980782
+s603
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/MainSetViewController.nib
+t1350980783
+s2154
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/MainWindow.nib
+t1350980782
+s1129
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/PkgInfo
+t1350980782
+s8
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockModeController.nib
+t1350980783
+s1737
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockMusicController.nib
+t1350980782
+s2651
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockSceneController.nib
+t1350980782
+s1830
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockTimeController.nib
+t1350980783
+s1650
+
+N/Users/zhuxian/Documents/DJ/AlarmClock/main.m
+c0000000050865143000000000000015A
+t1350979907
+s346
+i<UIKit/UIKit.h>
+
+N/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch.gch
+t1350980783
+s15453392
+
+NAlarmClock-Info.plist
+c0000000050865143000000000000038D
+t1350979907
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies372673582#372673582#0(0"0(0#1#0"8617241696#0"0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.070070
+e372673584.121808
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m372673584#372673584#0(0"0(0#0#65"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m8642221696#2006"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.121897
+e372673584.238849
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m372673584#372673584#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m8604112512#2018"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AddClockViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockAppDelegate.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673583.951912
+e372673584.010291
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockAppDelegate.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m372673583#372673584#0(0"0(0#0#70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m8640650560#2016"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockAppDelegate.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockAppDelegate.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673583.952590
+e372673584.004494
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m372673583#372673584#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m8652722528#2022"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AlarmClockViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/AlarmClockViewController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/ClockCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.092143
+e372673584.168792
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/ClockCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m372673584#372673584#0(0"0(0#0#58"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m8618478208#1992"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/ClockCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/CustomerCell.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.093769
+e372673584.145261
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/CustomerCell.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m372673584#372673584#0(0"0(0#0#61"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m8615874624#1998"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/CustomerCell.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/CustomerCell.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/MainSetViewController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.158089
+e372673584.223533
+r0
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/MainSetViewController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:16:38: error: WeatherMainViewController.h: No such file or directory
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m: In function '-[MainSetViewController showWeatherReport:]':
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:127: warning: receiver 'WeatherMainViewController' is a forward class and corresponding @interface may not exist
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:128: error: request for member 'delegate' in something not a structure or union
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:138: error: request for member 'view' in something not a structure or union
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:139: error: request for member 'view' in something not a structure or union
+o/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:141: error: request for member 'view' in something not a structure or union
+o{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000007$pb"
+o{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression
+o{standard input}:721:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000007$pb"
+o{standard input}:721:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:714:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000007$pb"
+o{standard input}:714:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:711:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_8" minus "L00000000007$pb"
+o{standard input}:711:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_8" can't be undefined in a subtraction expression
+o{standard input}:677:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000006$pb"
+o{standard input}:677:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression
+o{standard input}:670:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000006$pb"
+o{standard input}:670:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+o{standard input}:663:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000006$pb"
+o{standard input}:663:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:659:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_9" minus "L00000000006$pb"
+o{standard input}:659:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_9" can't be undefined in a subtraction expression
+o{standard input}:615:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000005$pb"
+o{standard input}:615:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+o{standard input}:608:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000005$pb"
+o{standard input}:608:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:601:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"
+o{standard input}:601:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:590:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000005$pb"
+o{standard input}:590:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+o{standard input}:580:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"
+o{standard input}:580:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:571:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000005$pb"
+o{standard input}:571:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+o{standard input}:564:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000005$pb"
+o{standard input}:564:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:558:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000005$pb"
+o{standard input}:558:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:555:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_8" minus "L00000000005$pb"
+o{standard input}:555:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_8" can't be undefined in a subtraction expression
+o{standard input}:547:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000005$pb"
+o{standard input}:547:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:540:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000005$pb"
+o{standard input}:540:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:533:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"
+o{standard input}:533:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:522:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000005$pb"
+o{standard input}:522:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:512:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"
+o{standard input}:512:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:503:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000005$pb"
+o{standard input}:503:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:500:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_7" minus "L00000000005$pb"
+o{standard input}:500:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_7" can't be undefined in a subtraction expression
+o{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000004$pb"
+o{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:446:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+o{standard input}:446:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:438:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000004$pb"
+o{standard input}:438:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:432:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"
+o{standard input}:432:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000004$pb"
+o{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000004$pb"
+o{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"
+o{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:382:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"
+o{standard input}:382:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:376:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:376:symbol: "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"
+o{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:362:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"
+o{standard input}:362:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:359:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000003$pb"
+o{standard input}:359:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression
+o{standard input}:353:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:353:symbol: "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"
+o{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:339:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" minus "L00000000003$pb"
+o{standard input}:339:symbol: "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:332:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"
+o{standard input}:332:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:329:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000003$pb"
+o{standard input}:329:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+o{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000002$pb"
+o{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:294:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_4" minus "L00000000002$pb"
+o{standard input}:294:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_4" can't be undefined in a subtraction expression
+o{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"
+o{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"
+o{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:269:non-relocatable subtraction expression, "LC7" minus "L00000000002$pb"
+o{standard input}:269:symbol: "LC7" can't be undefined in a subtraction expression
+o{standard input}:263:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"
+o{standard input}:263:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
+o{standard input}:260:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:257:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000002$pb"
+o{standard input}:257:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:252:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timer$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:252:symbol: "L_OBJC_IVAR_$_MainSetViewController.timer$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:244:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"
+o{standard input}:244:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:237:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:237:symbol: "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:229:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"
+o{standard input}:229:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:223:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:223:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:220:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000002$pb"
+o{standard input}:220:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:215:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:215:symbol: "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:207:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"
+o{standard input}:207:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:200:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000002$pb"
+o{standard input}:200:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000002$pb"
+o{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:187:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"
+o{standard input}:187:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:177:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"
+o{standard input}:177:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:173:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:173:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:167:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:167:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:164:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"
+o{standard input}:164:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:157:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:157:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:151:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:151:symbol: "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:142:non-relocatable subtraction expression, "LC2" minus "L00000000002$pb"
+o{standard input}:142:symbol: "LC2" can't be undefined in a subtraction expression
+o{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"
+o{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:136:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000002$pb"
+o{standard input}:136:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression
+o{standard input}:129:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"
+o{standard input}:129:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000002$pb"
+o{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:61:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:61:symbol: "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:49:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:49:symbol: "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol LC2
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.timer$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol LC7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36
+lSLF07#2@78"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372673584#372673584#0(22171"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:16:38: error: WeatherMainViewController.h: No such file or directory/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m: In function '-[MainSetViewController showWeatherReport:]':/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:127: warning: receiver 'WeatherMainViewController' is a forward class and corresponding @interface may not exist/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:128: error: request for member 'delegate' in something not a structure or union/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:138: error: request for member 'view' in something not a structure or union/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:139: error: request for member 'view' in something not a structure or union/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m:141: error: request for member 'view' in something not a structure or union{standard input}:727:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000007$pb"{standard input}:727:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression{standard input}:721:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000007$pb"{standard input}:721:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:714:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000007$pb"{standard input}:714:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:711:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_8" minus "L00000000007$pb"{standard input}:711:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_8" can't be undefined in a subtraction expression{standard input}:677:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000006$pb"{standard input}:677:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression{standard input}:670:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000006$pb"{standard input}:670:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression{standard input}:663:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000006$pb"{standard input}:663:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:659:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_9" minus "L00000000006$pb"{standard input}:659:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_9" can't be undefined in a subtraction expression{standard input}:615:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000005$pb"{standard input}:615:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:608:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000005$pb"{standard input}:608:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:601:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"{standard input}:601:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:590:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000005$pb"{standard input}:590:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:580:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"{standard input}:580:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:571:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000005$pb"{standard input}:571:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:564:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000005$pb"{standard input}:564:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:558:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000005$pb"{standard input}:558:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:555:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_8" minus "L00000000005$pb"{standard input}:555:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_8" can't be undefined in a subtraction expression{standard input}:547:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000005$pb"{standard input}:547:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:540:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000005$pb"{standard input}:540:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:533:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"{standard input}:533:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:522:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000005$pb"{standard input}:522:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:512:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000005$pb"{standard input}:512:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:503:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000005$pb"{standard input}:503:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:500:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_7" minus "L00000000005$pb"{standard input}:500:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_7" can't be undefined in a subtraction expression{standard input}:452:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000004$pb"{standard input}:452:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:446:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"{standard input}:446:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:438:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000004$pb"{standard input}:438:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:432:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000004$pb"{standard input}:432:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:424:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000004$pb"{standard input}:424:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:418:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000004$pb"{standard input}:418:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:412:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000004$pb"{standard input}:412:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:382:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000003$pb"{standard input}:382:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:376:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" minus "L00000000003$pb"{standard input}:376:symbol: "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000003$pb"{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:362:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000003$pb"{standard input}:362:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:359:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000003$pb"{standard input}:359:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression{standard input}:353:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" minus "L00000000003$pb"{standard input}:353:symbol: "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:345:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000003$pb"{standard input}:345:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:339:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" minus "L00000000003$pb"{standard input}:339:symbol: "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:332:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000003$pb"{standard input}:332:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:329:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000003$pb"{standard input}:329:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000002$pb"{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:294:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_4" minus "L00000000002$pb"{standard input}:294:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_4" can't be undefined in a subtraction expression{standard input}:286:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000002$pb"{standard input}:286:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:279:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000002$pb"{standard input}:279:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:269:non-relocatable subtraction expression, "LC7" minus "L00000000002$pb"{standard input}:269:symbol: "LC7" can't be undefined in a subtraction expression{standard input}:263:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000002$pb"{standard input}:263:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"{standard input}:260:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:257:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000002$pb"{standard input}:257:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:252:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timer$non_lazy_ptr" minus "L00000000002$pb"{standard input}:252:symbol: "L_OBJC_IVAR_$_MainSetViewController.timer$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:244:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000002$pb"{standard input}:244:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:237:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" minus "L00000000002$pb"{standard input}:237:symbol: "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:229:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000002$pb"{standard input}:229:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:223:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:223:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:220:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000002$pb"{standard input}:220:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:215:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" minus "L00000000002$pb"{standard input}:215:symbol: "L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:207:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000002$pb"{standard input}:207:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:200:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000002$pb"{standard input}:200:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:194:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000002$pb"{standard input}:194:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:187:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000002$pb"{standard input}:187:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:177:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000002$pb"{standard input}:177:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:173:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:173:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:167:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:167:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:164:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000002$pb"{standard input}:164:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:157:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:157:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:151:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" minus "L00000000002$pb"{standard input}:151:symbol: "L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:142:non-relocatable subtraction expression, "LC2" minus "L00000000002$pb"{standard input}:142:symbol: "LC2" can't be undefined in a subtraction expression{standard input}:140:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000002$pb"{standard input}:140:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:136:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_0" minus "L00000000002$pb"{standard input}:136:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_0" can't be undefined in a subtraction expression{standard input}:129:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000002$pb"{standard input}:129:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000002$pb"{standard input}:123:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:61:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" minus "L00000000001$pb"{standard input}:61:symbol: "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:49:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" minus "L00000000001$pb"{standard input}:49:symbol: "L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.activityClockCount$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol LC2{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.timeLabel$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.dateFormatter$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MainSetViewController.timer$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol LC7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_366(4@54"WeatherMainViewController.h: No such file or directory372673584#0#140#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372670664#16#0#16#0#28"*: No such file or directory0(22@98"Receiver 'WeatherMainViewController' is a forward class and corresponding @interface may not exist372673584#271#184#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372670664#127#0#127#0#0"0(4@67"Request for member 'delegate' in something not a structure or union372673584#455#151#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372670664#128#0#128#0#0"0(4@63"Request for member 'view' in something not a structure or union372673584#606#147#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372670664#138#0#138#0#0"0(4@63"Request for member 'view' in something not a structure or union372673584#753#147#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372670664#139#0#139#0#0"0(4@63"Request for member 'view' in something not a structure or union372673584#900#147#0(6@70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m372670664#141#0#141#0#0"0(0#0#70"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m8610707136#2016"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/MainSetViewController.o1#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673583.953226
+e372673584.029018
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m372673583#372673584#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m8643214528#2010"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockModeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.010377
+e372673584.092053
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockModeController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m372673584#372673584#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m8650999168#2018"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockModeController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockMusicController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.004613
+e372673584.158005
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockMusicController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m372673584#372673584#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m8615807232#2020"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockMusicController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockSceneController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.005507
+e372673584.069980
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockSceneController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m372673584#372673584#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m8652304224#2020"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockSceneController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockTimeController.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.029107
+e372673584.093687
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockTimeController.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m372673584#372673584#0(0"0(0#0#71"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m8649552320#2018"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/SetClockTimeController.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/UIColor_Random.o /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673584.145353
+e372673584.176058
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/UIColor_Random.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m372673584#372673584#0(0"0(0#0#63"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m8611396480#2002"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/Classes/UIColor_Random.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/UIColor_Random.o0#
+
+CCompileC build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/main.o /Users/zhuxian/Documents/DJ/AlarmClock/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673583.951127
+e372673584.005444
+r1
+xCompileC
+xbuild/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/main.o
+x/Users/zhuxian/Documents/DJ/AlarmClock/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/zhuxian/Documents/DJ/AlarmClock/main.m372673583#372673584#0(0"0(0#0#45"/Users/zhuxian/Documents/DJ/AlarmClock/main.m8657906176#1974"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -include /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch -c /Users/zhuxian/Documents/DJ/AlarmClock/main.m -o /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+s372673582.475780
+e372673582.788284
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib
+lSLF07#2@39"CompileXIB AlarmClockViewController.xib372673582#372673582#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib8657545472#601"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AlarmClockViewController.nib /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClockViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+s372673582.855561
+e372673583.147174
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib
+lSLF07#2@39"CompileXIB Classes/AddClockViewCell.xib372673582#372673583#0(0"0(0#0#67"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib8627031040#593"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AddClockViewCell.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+s372673583.147252
+e372673583.439784
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib
+lSLF07#2@45"CompileXIB Classes/AddClockViewController.xib372673583#372673583#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib8617343072#605"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AddClockViewController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/AddClockViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+s372673582.866665
+e372673583.166270
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib
+lSLF07#2@32"CompileXIB Classes/ClockCell.xib372673582#372673583#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib8623782752#579"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/ClockCell.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/ClockCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+s372673583.148882
+e372673583.396669
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib
+lSLF07#2@44"CompileXIB Classes/MainSetViewController.xib372673583#372673583#0(0"0(0#0#72"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib8616088064#603"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/MainSetViewController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/MainSetViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+s372673582.788365
+e372673583.148814
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib
+lSLF07#2@45"CompileXIB Classes/SetClockModeController.xib372673582#372673583#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib8647830784#605"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockModeController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockModeController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+s372673582.476226
+e372673582.866593
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib
+lSLF07#2@46"CompileXIB Classes/SetClockMusicController.xib372673582#372673582#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib8652075264#607"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockMusicController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockMusicController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+s372673582.476668
+e372673582.855486
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib
+lSLF07#2@46"CompileXIB Classes/SetClockSceneController.xib372673582#372673582#0(0"0(0#0#74"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib8650721216#607"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockSceneController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockSceneController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+s372673582.808902
+e372673583.172680
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib
+lSLF07#2@45"CompileXIB Classes/SetClockTimeController.xib372673582#372673583#0(0"0(0#0#73"/Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib8640493440#605"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/SetClockTimeController.nib /Users/zhuxian/Documents/DJ/AlarmClock/Classes/SetClockTimeController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+s372673582.475244
+e372673582.808789
+r1
+xCompileXIB
+x/Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib372673582#372673582#0(0"0(0#0#53"/Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib8658177856#573"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/MainWindow.nib /Users/zhuxian/Documents/DJ/AlarmClock/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app.dSYM /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AlarmClock
+r0
+
+CLd /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/AlarmClock normal i386
+r0
+
+CProcessInfoPlistFile /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/Info.plist AlarmClock-Info.plist
+s372673582.460065
+e372673582.475147
+r1
+xProcessInfoPlistFile
+x/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/Info.plist
+xAlarmClock-Info.plist
+lSLF07#2@29"Process AlarmClock-Info.plist372673582#372673582#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock-Info.plist8657784608#488"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AlarmClock-Info.plist -genpkginfo /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app/Info.plist0#
+
+CProcessPCH /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch.gch AlarmClock_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s372673583.439890
+e372673583.951045
+r1
+xProcessPCH
+x/var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch.gch
+xAlarmClock_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile AlarmClock_Prefix.pch372673583#372673583#0(0"0(0#0#60"/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch8614033120#1863"    cd /Users/zhuxian/Documents/DJ/AlarmClock    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-generated-files.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-own-target-headers.hmap -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-all-target-headers.hmap -iquote /Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/AlarmClock-project-headers.hmap -F/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator -I/Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/include -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources/i386 -I/Users/zhuxian/Documents/DJ/AlarmClock/build/AlarmClock.build/Debug-iphonesimulator/AlarmClock.build/DerivedSources -c /Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock_Prefix.pch -o /var/folders/4-/4-PfSl5jHXCFe72Qi-zxzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AlarmClock_Prefix-gpirilsixhkjobbcttqjswwcfrkn/AlarmClock_Prefix.pch.gch0#
+
+CTouch /Users/zhuxian/Documents/DJ/AlarmClock/build/Debug-iphonesimulator/AlarmClock.app
+r0
+

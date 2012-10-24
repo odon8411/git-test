@@ -1,0 +1,508 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AlarmClockAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 359}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 600}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AlarmClockAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 2600}}";
+			sepNavSelRange = "{3599, 0}";
+			sepNavVisRange = "{3194, 1344}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AlarmClock */ = {
+		activeExec = 0;
+		executables = (
+			E13EC79B163688C30039D83D /* AlarmClock */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AlarmClockViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 359}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 312}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AlarmClockViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 858}}";
+			sepNavSelRange = "{796, 21}";
+			sepNavVisRange = "{549, 737}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E13EC79B163688C30039D83D /* AlarmClock */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AlarmClock */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AlarmClock */,
+		);
+		codeSenseManager = E13EC7A7163688E10039D83D /* Code sense */;
+		executables = (
+			E13EC79B163688C30039D83D /* AlarmClock */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					606,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 372672707;
+			PBXWorkspaceStateSaveDate = 372672707;
+		};
+		perUserProjectItems = {
+			E13ECA64163698640039D83D /* PBXTextBookmark */ = E13ECA64163698640039D83D /* PBXTextBookmark */;
+			E13ECA66163698640039D83D /* PBXBookmark */ = E13ECA66163698640039D83D /* PBXBookmark */;
+			E13ECA67163698640039D83D /* PBXBookmark */ = E13ECA67163698640039D83D /* PBXBookmark */;
+			E13ECA68163698640039D83D /* PBXBookmark */ = E13ECA68163698640039D83D /* PBXBookmark */;
+			E13ECA69163698640039D83D /* PBXBookmark */ = E13ECA69163698640039D83D /* PBXBookmark */;
+			E13ECA6A163698640039D83D /* PBXBookmark */ = E13ECA6A163698640039D83D /* PBXBookmark */;
+			E13ECA76163698C50039D83D /* PBXBookmark */ = E13ECA76163698C50039D83D /* PBXBookmark */;
+			E13ECAC61636A2F70039D83D /* PBXTextBookmark */ = E13ECAC61636A2F70039D83D /* PBXTextBookmark */;
+			E13ECAC81636A2F70039D83D /* PBXTextBookmark */ = E13ECAC81636A2F70039D83D /* PBXTextBookmark */;
+			E13ECACA1636A2F70039D83D /* PlistBookmark */ = E13ECACA1636A2F70039D83D /* PlistBookmark */;
+			E13ECACC1636A2F70039D83D /* PBXTextBookmark */ = E13ECACC1636A2F70039D83D /* PBXTextBookmark */;
+			E13ECACD1636A2F70039D83D /* PBXTextBookmark */ = E13ECACD1636A2F70039D83D /* PBXTextBookmark */;
+			E13ECACE1636A2F70039D83D /* PBXTextBookmark */ = E13ECACE1636A2F70039D83D /* PBXTextBookmark */;
+			E13ECACF1636A2F70039D83D /* PBXTextBookmark */ = E13ECACF1636A2F70039D83D /* PBXTextBookmark */;
+			E13ECAD01636A2F70039D83D /* PBXTextBookmark */ = E13ECAD01636A2F70039D83D /* PBXTextBookmark */;
+			E13ECAD11636A2F70039D83D /* PBXTextBookmark */ = E13ECAD11636A2F70039D83D /* PBXTextBookmark */;
+			E13ECAD21636A2F70039D83D /* PBXTextBookmark */ = E13ECAD21636A2F70039D83D /* PBXTextBookmark */;
+			E13ECAD31636A2F70039D83D /* PBXBookmark */ = E13ECAD31636A2F70039D83D /* PBXBookmark */;
+			E13ECAE41636A5360039D83D /* PBXTextBookmark */ = E13ECAE41636A5360039D83D /* PBXTextBookmark */;
+			E13ECAE51636A5360039D83D /* PBXTextBookmark */ = E13ECAE51636A5360039D83D /* PBXTextBookmark */;
+			E13ECAE71636A5360039D83D /* PBXTextBookmark */ = E13ECAE71636A5360039D83D /* PBXTextBookmark */;
+			E13ECAE81636A5360039D83D /* PBXTextBookmark */ = E13ECAE81636A5360039D83D /* PBXTextBookmark */;
+			E13ECAE91636A5360039D83D /* PBXTextBookmark */ = E13ECAE91636A5360039D83D /* PBXTextBookmark */;
+			E13ECAEB1636A5360039D83D /* PBXTextBookmark */ = E13ECAEB1636A5360039D83D /* PBXTextBookmark */;
+			E13ECB1A1636A62B0039D83D /* PBXTextBookmark */ = E13ECB1A1636A62B0039D83D /* PBXTextBookmark */;
+			E13ECB1C1636A6DF0039D83D /* PBXTextBookmark */ = E13ECB1C1636A6DF0039D83D /* PBXTextBookmark */;
+			E13ECB1D1636A6DF0039D83D /* PBXTextBookmark */ = E13ECB1D1636A6DF0039D83D /* PBXTextBookmark */;
+			E13ECB1E1636A6DF0039D83D /* PBXTextBookmark */ = E13ECB1E1636A6DF0039D83D /* PBXTextBookmark */;
+		};
+		sourceControlManager = E13EC7A6163688E10039D83D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E13EC79B163688C30039D83D /* AlarmClock */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AlarmClock;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E13EC7A6163688E10039D83D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E13EC7A7163688E10039D83D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E13EC7C816368A8F0039D83D /* SetClockController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1885}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 573}";
+		};
+	};
+	E13EC7CB16368AB20039D83D /* SetClockMusicController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 665}";
+		};
+	};
+	E13EC7CC16368AB20039D83D /* SetClockMusicController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1223, 4797}}";
+			sepNavSelRange = "{829, 0}";
+			sepNavVisRange = "{2226, 718}";
+		};
+	};
+	E13EC7E316368B3A0039D83D /* AddClockViewCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 359}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 389}";
+		};
+	};
+	E13EC7E416368B3A0039D83D /* AddClockViewCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 598}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 566}";
+		};
+	};
+	E13EC7E616368B3A0039D83D /* ClockCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{273, 776}";
+		};
+	};
+	E13EC7E716368B3A0039D83D /* ClockCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 1677}}";
+			sepNavSelRange = "{495, 16}";
+			sepNavVisRange = "{126, 1032}";
+		};
+	};
+	E13EC7EA16368B3A0039D83D /* CustomerCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 897}}";
+			sepNavSelRange = "{412, 3}";
+			sepNavVisRange = "{305, 192}";
+		};
+	};
+	E13EC7F216368B560039D83D /* AddClockViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {817, 4524}}";
+			sepNavSelRange = "{5632, 0}";
+			sepNavVisRange = "{5302, 699}";
+		};
+	};
+	E13EC7FA16368BDA0039D83D /* MainSetViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 754}}";
+			sepNavSelRange = "{556, 0}";
+			sepNavVisRange = "{663, 730}";
+		};
+	};
+	E13EC7FB16368BDA0039D83D /* MainSetViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 4264}}";
+			sepNavSelRange = "{4945, 0}";
+			sepNavVisRange = "{3760, 907}";
+		};
+	};
+	E13EC814163697080039D83D /* 001.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{0, 68}, {1600, 810}}";
+		};
+	};
+	E13ECA64163698640039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7FA16368BDA0039D83D /* MainSetViewController.h */;
+		name = "MainSetViewController.h: 26";
+		rLen = 0;
+		rLoc = 556;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 663;
+	};
+	E13ECA66163698640039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13EC85D163697080039D83D /* Delete.png */;
+	};
+	E13ECA67163698640039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13EC85E163697080039D83D /* Done.png */;
+	};
+	E13ECA68163698640039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13ECA1C1636971B0039D83D /* Default@2x.png */;
+	};
+	E13ECA69163698640039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13ECA1B1636971B0039D83D /* Default.png */;
+	};
+	E13ECA6A163698640039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13EC912163697080039D83D /* start.png */;
+	};
+	E13ECA76163698C50039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13EC911163697080039D83D /* rewind.png */;
+	};
+	E13ECAC61636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13ECAC71636A2F70039D83D /* UILocalNotification.h */;
+		name = "UILocalNotification.h: 23";
+		rLen = 9;
+		rLoc = 823;
+		rType = 0;
+		vrLen = 1490;
+		vrLoc = 167;
+	};
+	E13ECAC71636A2F70039D83D /* UILocalNotification.h */ = {
+		isa = PBXFileReference;
+		name = UILocalNotification.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILocalNotification.h;
+		sourceTree = "<absolute>";
+	};
+	E13ECAC81636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13ECAC91636A2F70039D83D /* UIApplication.h */;
+		name = "UIApplication.h: 257";
+		rLen = 152;
+		rLoc = 13271;
+		rType = 0;
+		vrLen = 2279;
+		vrLoc = 12502;
+	};
+	E13ECAC91636A2F70039D83D /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		name = UIApplication.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+	};
+	E13ECACA1636A2F70039D83D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AlarmClock-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/zhuxian/Documents/DJ/AlarmClock/AlarmClock-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	E13ECACC1636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AlarmClockViewController.m */;
+		name = "AlarmClockViewController.m: 37";
+		rLen = 21;
+		rLoc = 796;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 549;
+	};
+	E13ECACD1636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AlarmClockViewController.h */;
+		name = "AlarmClockViewController.h: 14";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	E13ECACE1636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AlarmClockAppDelegate.m */;
+		name = "AlarmClockAppDelegate.m: 107";
+		rLen = 0;
+		rLoc = 3599;
+		rType = 0;
+		vrLen = 1344;
+		vrLoc = 3194;
+	};
+	E13ECACF1636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AlarmClockAppDelegate.h */;
+		name = "AlarmClockAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 0;
+	};
+	E13ECAD01636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7CB16368AB20039D83D /* SetClockMusicController.h */;
+		name = "SetClockMusicController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 665;
+		vrLoc = 0;
+	};
+	E13ECAD11636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7CC16368AB20039D83D /* SetClockMusicController.m */;
+		name = "SetClockMusicController.m: 34";
+		rLen = 0;
+		rLoc = 829;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 2226;
+	};
+	E13ECAD21636A2F70039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7C816368A8F0039D83D /* SetClockController.m */;
+		name = "SetClockController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	E13ECAD31636A2F70039D83D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E13EC814163697080039D83D /* 001.png */;
+	};
+	E13ECAE41636A5360039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7E316368B3A0039D83D /* AddClockViewCell.h */;
+		name = "AddClockViewCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 0;
+	};
+	E13ECAE51636A5360039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13ECAE61636A5360039D83D /* UITableViewCell.h */;
+		name = "UITableViewCell.h: 178";
+		rLen = 49;
+		rLoc = 9907;
+		rType = 0;
+		vrLen = 2643;
+		vrLoc = 9400;
+	};
+	E13ECAE61636A5360039D83D /* UITableViewCell.h */ = {
+		isa = PBXFileReference;
+		name = UITableViewCell.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h;
+		sourceTree = "<absolute>";
+	};
+	E13ECAE71636A5360039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7E616368B3A0039D83D /* ClockCell.h */;
+		name = "ClockCell.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 273;
+	};
+	E13ECAE81636A5360039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7E716368B3A0039D83D /* ClockCell.m */;
+		name = "ClockCell.m: 25";
+		rLen = 16;
+		rLoc = 495;
+		rType = 0;
+		vrLen = 1032;
+		vrLoc = 126;
+	};
+	E13ECAE91636A5360039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13ECAEA1636A5360039D83D /* CAAnimation.h */;
+		name = "CAAnimation.h: 276";
+		rLen = 49;
+		rLoc = 9867;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 9357;
+	};
+	E13ECAEA1636A5360039D83D /* CAAnimation.h */ = {
+		isa = PBXFileReference;
+		name = CAAnimation.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h;
+		sourceTree = "<absolute>";
+	};
+	E13ECAEB1636A5360039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7E416368B3A0039D83D /* AddClockViewCell.m */;
+		name = "AddClockViewCell.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 0;
+	};
+	E13ECAF91636A5BF0039D83D /* CAAnimation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CAAnimation.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 3783}}";
+			sepNavSelRange = "{8234, 4}";
+			sepNavVisRange = "{8069, 465}";
+		};
+	};
+	E13ECB1A1636A62B0039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13ECAF91636A5BF0039D83D /* CAAnimation.h */;
+		name = "CAAnimation.h: 265";
+		rLen = 47;
+		rLoc = 9414;
+		rType = 0;
+		vrLen = 1163;
+		vrLoc = 8966;
+	};
+	E13ECB1C1636A6DF0039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7FB16368BDA0039D83D /* MainSetViewController.m */;
+		name = "MainSetViewController.m: 289";
+		rLen = 0;
+		rLoc = 10200;
+		rType = 0;
+		vrLen = 1317;
+		vrLoc = 9596;
+	};
+	E13ECB1D1636A6DF0039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7F216368B560039D83D /* AddClockViewController.m */;
+		rLen = 1;
+		rLoc = 151;
+		rType = 1;
+	};
+	E13ECB1E1636A6DF0039D83D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E13EC7F216368B560039D83D /* AddClockViewController.m */;
+		name = "AddClockViewController.m: 180";
+		rLen = 0;
+		rLoc = 5632;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 5302;
+	};
+}
